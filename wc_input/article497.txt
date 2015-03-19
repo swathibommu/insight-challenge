@@ -1,0 +1,21 @@
+TORONTO &amp;mdash; Canadian archeologists have found a ship abandoned more than 150 years ago in the quest for the fabled Northwest Passage and which was lost in the search for the doomed expedition of Sir John Franklin, the head of the team said Wednesday.
+Marc-Andre Bernier, Parks Canada's head of underwater archaeology, said the HMS Investigator, abandoned in the ice in 1853, was found in shallow water in Mercy Bay along the northern coast of Banks Island in Canada's western Arctic.
+"The ship is standing upright in very good condition. It's standing in about 11 meters (36 feet) of water," he said. "This is definitely of the utmost importance. This is the ship that sailed the last leg of the Northwest Passage."
+The Investigator was one of many American and British ships sent out to search for the HMS Erebus and the Terror, vessels commanded by Franklin in his ill-fated search for the Northwest Passage in 1845.
+Environment Minister Jim Prentice said the British government has been notified that one of their naval shipwrecks has been discovered, as well as the bodies of three sailors.
+Captained by Robert McClure, the Investigator sailed in 1850. That year, McClure sailed the Investigator into the strait that now bears his name and realized that he was in the final leg of the Northwest Passage, the sea route across North America.
+But before he could sail into the Beaufort Sea, the ship was blocked by pack ice and forced to winter-over in Prince of Wales Strait along the east coast of Banks Island.
+The following summer, McClure tried again to sail to the end of the Passage, but was again blocked by ice. He steered the ship and crew into a large bay on the island's north coast he called the Bay of Mercy.
+There they were to remain until 1853, when they were rescued by the crew of the HMS Resolute. The Investigator was abandoned.
+');
+var debugadcode = '';
+document.write(debugadcode);
+"This is actually a human history," said Bernier. "Not only a history of the Passage, but the history of a crew of 60 men who had to overwinter three times in the Arctic not knowing if they were going to survive."
+The Parks Canada team arrived at Mercy Bay on July 22. Three days later, the ice on the bay cleared enough that researchers were able to deploy side-scanning sonar from a small inflatable boat over the site where they believed the wooden ship had eventually sunk. Within 15 minutes, the Investigator was found.
+"The ship had not moved too much from where it was abandoned," said Bernier.
+The masts and rigging have long been sheared off by ice and weather. But the icy waters of the McClure Strait has preserved the vessel in remarkably good condition.
+"It's incredible," said Prentice from Mercy Bay. "You're actually able to peer down into the water and see not only the outline of the ship but actually the individual timbers.
+Archaeologists have also uncovered artifacts on land left behind by the stranded sailors, who unloaded everything before abandoning the Investigator.
+The graves of three sailors thought to have died of scurvy have been marked off and will be left undisturbed, said Bernier.
+Bernier said the next step will be to send down a remote controlled video camera to get actual pictures of the wreck. There are no plans to bring it to the surface and all legal steps will be taken to ensure the site remains protected.
+Bernier also said the team will use similar technology to find the Erebus and Terror
